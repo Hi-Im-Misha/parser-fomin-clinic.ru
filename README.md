@@ -1,4 +1,4 @@
-# Parser fomin-clinic.ru
+# Парсер fomin-clinic.ru
 [https://fomin-clinic.ru/](https://fomin-clinic.ru/)
 
 Этот скрипт рекурсивно обходит сайт и сохраняет HTML-страницы на диск.  
