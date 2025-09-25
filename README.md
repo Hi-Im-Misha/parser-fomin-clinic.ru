@@ -19,7 +19,7 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/username/repo.git
+   git clone https://github.com/Hi-Im-Misha/parser-fomin-clinic.ru.git
 2. Установить зависимости:
    ```bash
    pip install -r requirements.txt
