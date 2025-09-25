@@ -21,3 +21,9 @@
    ```bash
    git clone https://github.com/username/repo.git
    cd repo
+2. Установить зависимости:
+   ```bash
+   pip install -r requirements.txt
+3. Запустить скрипт:
+   ```bash
+   python main.py
